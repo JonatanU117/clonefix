@@ -169,4 +169,4 @@ body {
 
 ## Navegacion
 - 🏠 [Home](README.md)
-- ❌ [Version2](archivo/version2)
+- ✔ [Version2](version2.md)
